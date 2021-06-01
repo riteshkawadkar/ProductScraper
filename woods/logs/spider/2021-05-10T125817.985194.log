@@ -1,0 +1,478 @@
+2021-05-10 12:58:18 [scrapy] DEBUG: Crawled (404) <GET http://quotes.toscrape.com/robots.txt> (referer: None)
+2021-05-10 12:58:19 [scrapy] DEBUG: Crawled (200) <GET http://quotes.toscrape.com/> (referer: None)
+2021-05-10 12:58:19 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/robots.txt> (referer: None)
+2021-05-10 12:58:20 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/fortress-collection> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:20 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/american-cavalier> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:20 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/the-french-riviera> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:20 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/urbanica-12mm> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:20 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/big-oak-collection> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:20 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/fortress-random-length> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:20 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/urbanica-82mm> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-collection>
+{'code': 'REET30', 'title': 'Havana'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-collection>
+{'code': 'REET31', 'title': 'Rio'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-collection>
+{'code': 'REET32', 'title': 'Ibiza'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-collection>
+{'code': 'REET36', 'title': 'Sand Dollar'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-collection>
+{'code': 'REET75', 'title': 'FORTRESS_CATHEDRAL_GRAY_HQWeb'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-collection>
+{'code': 'REET76', 'title': 'Latte'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-collection>
+{'code': 'REET77', 'title': 'Chestnut'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-collection>
+{'code': 'REET-78', 'title': 'Java'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-collection>
+{'code': 'REET-79', 'title': 'Pecan'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/american-cavalier>
+{'code': 'REMO500', 'title': 'Morgan'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/american-cavalier>
+{'code': 'REMA510', 'title': 'Marchador'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/american-cavalier>
+{'code': 'RESU520', 'title': 'Suddlebred'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/american-cavalier>
+{'code': 'REMU530', 'title': 'Mustang'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/american-cavalier>
+{'code': 'REWA550', 'title': 'Warmblood'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-french-riviera>
+{'code': 'REFR1010', 'title': 'Saint Tropez'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-french-riviera>
+{'code': 'REFR1020', 'title': 'Cannes'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-french-riviera>
+{'code': 'REFR1030', 'title': 'Saint Laurent'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-french-riviera>
+{'code': 'REFR1040', 'title': 'Saint Jean'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-french-riviera>
+{'code': 'REFR1050', 'title': 'Grasse'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/urbanica-12mm>
+{'code': 'REUR750-12', 'title': 'Ocean'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/urbanica-12mm>
+{'code': 'REUR760-12', 'title': 'Soho'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/urbanica-12mm>
+{'code': 'REUR770-12', 'title': 'Fifth Avenue'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/urbanica-12mm>
+{'code': 'REUR780-12', 'title': 'West Village'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/big-oak-collection>
+{'code': 'REBO3020', 'title': 'Grey Rose - 12mm'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/big-oak-collection>
+{'code': None, 'title': 'Silver Cloud - 12mm'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/big-oak-collection>
+{'code': 'REBO3040', 'title': 'Tan Sand -12mm'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-random-length>
+{'code': 'REETBW883', 'title': 'Country Cedar'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-random-length>
+{'code': 'REETBW885', 'title': 'Country Walnut'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-random-length>
+{'code': 'REETBW884', 'title': 'Country Maple'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-random-length>
+{'code': 'REET-910', 'title': 'Golden Ash'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/fortress-random-length>
+{'code': 'REET950', 'title': 'French Gray'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/urbanica-82mm>
+{'code': 'REUR785-8', 'title': 'Michigan Avenue'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/urbanica-82mm>
+{'code': 'REUR765-8', 'title': 'Sunset Strip'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/urbanica-82mm>
+{'code': 'REUR745-8', 'title': 'Lincoln Park'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/urbanica-82mm>
+{'code': 'REUR795-8', 'title': 'Arts District'}
+2021-05-10 12:58:20 [scrapy] DEBUG: Redirecting (301) to <GET https://www.republicfloor.com/malta-islands-collection> from <GET https://www.republicfloor.com/copy-of-lion-meadows-collection-1>
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/the-glens-12mm> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-glens-12mm>
+{'code': 'RETG2010', 'title': 'Derby Brown'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-glens-12mm>
+{'code': 'RETG2020', 'title': 'Dark Tan'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-glens-12mm>
+{'code': 'RETG2030', 'title': 'Desert Sand'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-glens-12mm>
+{'code': 'RETG2040', 'title': 'Forest Blue'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/the-pacific-oak> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/european-lite-collection> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/nature-stone> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/frontier-collection> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/european-collection> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/european-plus-collection> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-pacific-oak>
+{'code': 'REPO4001', 'title': 'Coyote Brush'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-pacific-oak>
+{'code': 'REPO4002', 'title': 'Coffee Berry'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-pacific-oak>
+{'code': 'REPO4003', 'title': 'California Buckeye'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-pacific-oak>
+{'code': 'REPO4004', 'title': 'Western Fir'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-pacific-oak>
+{'code': 'REPO4005', 'title': 'Monterey Cypress'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-lite-collection>
+{'code': 'REMI44', 'title': 'Milano'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-lite-collection>
+{'code': 'REAM41', 'title': 'Amsterdam'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-lite-collection>
+{'code': 'RERO47', 'title': 'Rome'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-lite-collection>
+{'code': 'REHE49', 'title': 'Helsinki'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/nature-stone>
+{'code': 'RENS6010', 'title': 'Coastsl Dakota'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/nature-stone>
+{'code': 'RENS6020', 'title': 'Cloudy Gray'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/the-woodland-oak> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/frontier-collection>
+{'code': 'REFR630', 'title': 'Walnut Harrington'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/frontier-collection>
+{'code': 'REFR680', 'title': 'Smoked Almond'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/frontier-collection>
+{'code': 'REFR690', 'title': 'Whiskey Sapele'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-collection>
+{'code': None, 'title': 'RERA210_Rustic_Apple'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-collection>
+{'code': None, 'title': 'PLATINIUM_REGA_220_IL1_GOLDEN_APPLE_BOX.'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-collection>
+{'code': None, 'title': 'RENA280_Natural Birch'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-collection>
+{'code': None, 'title': 'REBT290_Brazilian_Tiger_Wood'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-plus-collection>
+{'code': 'REMI445', 'title': 'Milano'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-plus-collection>
+{'code': 'RECO425', 'title': 'Copenhagen'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-plus-collection>
+{'code': 'REAM415', 'title': 'Amsterdam'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-plus-collection>
+{'code': 'RERO475', 'title': 'Rome'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/european-plus-collection>
+{'code': 'REHE495', 'title': 'Helsinki'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-woodland-oak>
+{'code': 'REWO4101', 'title': 'Valley Oak'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-woodland-oak>
+{'code': 'REWO4102', 'title': 'Canyon Oak'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-woodland-oak>
+{'code': 'REWO4103', 'title': 'Southern Oak'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-woodland-oak>
+{'code': 'REWO4104', 'title': 'Bear Oak'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-woodland-oak>
+{'code': 'REWO4105', 'title': 'Arizona White Oak'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-woodland-oak>
+{'code': 'REWO4106', 'title': 'Chestnut Oak'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-woodland-oak>
+{'code': 'REWO4107', 'title': 'Post Oak'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/walunthills-collection> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/clovercreek> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/big-cypress-collection> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/walunthills-collection>
+{'code': None, 'title': 'REWH5501_Granito Nero'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/walunthills-collection>
+{'code': None, 'title': 'REWH5502_Graphite Grey'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/walunthills-collection>
+{'code': None, 'title': 'REWH5503_Light Sand'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/walunthills-collection>
+{'code': None, 'title': 'REWH5504_Mountain Tan'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/walunthills-collection>
+{'code': None, 'title': 'REWH5505_Gray Mist'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/clovercreek>
+{'code': 'RECC5301', 'title': 'Tropical Malaga'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/clovercreek>
+{'code': 'RECC5302', 'title': 'Tiger Belge'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/clovercreek>
+{'code': 'RECC5303', 'title': 'RECC5303_Toros GreyWeb'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/big-cypress-collection>
+{'code': 'REBC62101', 'title': 'Vermont Brown'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/big-cypress-collection>
+{'code': 'REBC62102', 'title': 'Java Beige'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/big-cypress-collection>
+{'code': 'REBC62103', 'title': 'Imperial Golden'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (404) <GET https://www.republicfloor.com/malta-islands-collection> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/glacier-point> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/blackwater-canyon-collection> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/clare-valley> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] INFO: Ignoring response <404 https://www.republicfloor.com/malta-islands-collection>: HTTP status code is not handled or not allowed
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/lion-creek> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Redirecting (301) to <GET https://www.republicfloor.com/silver-lake> from <GET https://www.republicfloor.com/copy-of-clovercreek>
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/glacier-point>
+{'code': 'REGP5201', 'title': 'Sahra Beige'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/glacier-point>
+{'code': 'REGP5203', 'title': 'Silver Pearl'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/glacier-point>
+{'code': 'REGP5204', 'title': 'Sydney Cedar'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/glacier-point>
+{'code': 'REGP5205', 'title': 'Super Gray'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/glacier-point>
+{'code': 'REGP5206', 'title': 'REGP5206_Virginia Mist web'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/blackwater-canyon-collection>
+{'code': 'REBW63101', 'title': 'Zurich Tan'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/blackwater-canyon-collection>
+{'code': 'REBW63102', 'title': 'Swiss Light'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/blackwater-canyon-collection>
+{'code': 'REBW63104', 'title': 'Hermes Ash'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/blackwater-canyon-collection>
+{'code': 'REBW63103', 'title': 'Texas Brown T5'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/blackwater-canyon-collection>
+{'code': 'REBW63105', 'title': 'Edmonton Beige'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/blackwater-canyon-collection>
+{'code': 'REBW63106', 'title': 'Courtyard Grey'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/clare-valley>
+{'code': 'RECR6101', 'title': 'Royal Cream'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/clare-valley>
+{'code': 'RECR6102', 'title': 'Russian Sable'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/clare-valley>
+{'code': 'RECR6103', 'title': 'Sage Brush'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/clare-valley>
+{'code': 'RECR6104', 'title': 'Sunset Light'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/clare-valley>
+{'code': 'RECR6105', 'title': 'Safari Sunset'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-creek>
+{'code': '•Length: 1540mm (60") \n'
+         '•Width: 230mm (9")  \n'
+         '•Total Thickness: 6.5mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 22.88',
+ 'title': 'Stormy Grey RELC8203'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-creek>
+{'code': '•Length: 1540mm (60") \n'
+         '•Width: 230mm (9")  \n'
+         '•Total Thickness: 6.5mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 22.88',
+ 'title': 'Snow Drift RELC8202'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-creek>
+{'code': '•Length: 1540mm (60") \n'
+         '•Width: 230mm (9")  \n'
+         '•Total Thickness: 6.5mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 22.88',
+ 'title': 'African Desert RELC8201'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-creek>
+{'code': '•Length: 1540mm (60") \n'
+         '•Width: 230mm (9")  \n'
+         '•Total Thickness: 6.5mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 22.88',
+ 'title': 'Ural Gray RELC8204'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-creek>
+{'code': '•Length: 1540mm (60") \n'
+         '•Width: 230mm (9")  \n'
+         '•Total Thickness: 6.5mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 22.88',
+ 'title': 'Jet Mist RELC8205'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-creek>
+{'code': '•Length: 1540mm (60") \n'
+         '•Width: 230mm (9")  \n'
+         '•Total Thickness: 6.5mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 22.88',
+ 'title': 'Baltic Brown RELC8206'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-creek>
+{'code': '•Length: 1540mm (60") \n'
+         '•Width: 230mm (9")  \n'
+         '•Total Thickness: 6.5mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 22.88',
+ 'title': 'Majestic Valley RELC8207'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-creek>
+{'code': '•Length: 1540mm (60") \n'
+         '•Width: 230mm (9")  \n'
+         '•Total Thickness: 6.5mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 22.88',
+ 'title': 'River Grey RELC8208'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-creek>
+{'code': '•Length: 1540mm (60") \n'
+         '•Width: 230mm (9")  \n'
+         '•Total Thickness: 6.5mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 22.88',
+ 'title': 'Silver Forest RELC8209'}
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/western-north-woods> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:21 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/lion-meadows> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/western-north-woods>
+{'code': 'REWE2802', 'title': 'Sugar tree'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-meadows>
+{'code': '•Length: 1220mm (48") \n'
+         '•Width: 180mm (7")  \n'
+         '•Total Thickness: 6mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 23.64',
+ 'title': 'Desert Blend (RELM8101)'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-meadows>
+{'code': '•Length: 1220mm (48") \n'
+         '•Width: 180mm (7")  \n'
+         '•Total Thickness: 6mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 23.64',
+ 'title': 'Iris Tan RELM8102'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-meadows>
+{'code': '•Length: 1540mm (60") \n'
+         '•Width: 180mm (7")  \n'
+         '•Total Thickness: 6mm\n'
+         '•Wear layer: 0.5mm/20mil  \n'
+         '•SQF/BOX: 23.64',
+ 'title': 'Princess Hazel RELM8103'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-meadows>
+{'code': '•Length: 1540mm (60")\n'
+         '•Width: 180mm (7")\n'
+         '•Total Thickness: 6mm\n'
+         '•Wear layer: 0.5mm/20mil\n'
+         '•SQF/BOX: 23.87',
+ 'title': 'White Reef RELM8104'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-meadows>
+{'code': '•Length: 1540mm (60")\n'
+         '•Width: 180mm (7")\n'
+         '•Total Thickness: 6mm\n'
+         '•Wear layer: 0.5mm/20mil\n'
+         '•SQF/BOX: 23.87',
+ 'title': 'Oasis Grey RELM8105'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-meadows>
+{'code': '•Length: 1540mm (60")\n'
+         '•Width: 180mm (7")\n'
+         '•Total Thickness: 6mm\n'
+         '•Wear layer: 0.5mm/20mil\n'
+         '•SQF/BOX: 23.87',
+ 'title': 'Harvest Cream RELM8106'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-meadows>
+{'code': '•Length: 1540mm (60")\n'
+         '•Width: 180mm (7")\n'
+         '•Total Thickness: 6mm\n'
+         '•Wear layer: 0.5mm/20mil\n'
+         '•SQF/BOX: 23.87',
+ 'title': 'Gray Stream RELM8107'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/lion-meadows>
+{'code': '•Length: 1540mm (60")\n'
+         '•Width: 180mm (7")\n'
+         '•Total Thickness: 6mm\n'
+         '•Wear layer: 0.5mm/20mil\n'
+         '•SQF/BOX: 23.87',
+ 'title': 'Burberry Light RELM8108'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/southern-charm> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/southern-charm>
+{'code': 'RESO2901', 'title': 'Charleston'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/southern-charm>
+{'code': 'RESO2902', 'title': 'Savannah'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/southern-charm>
+{'code': 'RESO2904', 'title': 'Birmingham'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/southern-charm>
+{'code': 'RESO2905', 'title': 'Lafayette'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/countryside> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/the-french-island> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/carmel-by-the-sea> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/crown-colony> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/beach-house> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/countryside>
+{'code': 'RECS2101', 'title': 'Eastern Cottonwood 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/countryside>
+{'code': 'RECS2102', 'title': 'American Hornbeam 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/countryside>
+{'code': 'RECS2103', 'title': 'Hawthorn 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/countryside>
+{'code': 'RECS2104', 'title': 'Tulip Tree'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/countryside>
+{'code': 'RECS2105', 'title': 'Aspen 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/coastal-oak> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-french-island>
+{'code': 'REFI4201', 'title': 'Corsica - 6.5mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-french-island>
+{'code': 'REFI4202', 'title': 'Reunion- 6.5mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-french-island>
+{'code': 'REFI4204', 'title': 'Martinique - 6.5mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/the-french-island>
+{'code': 'REFI4205', 'title': 'Franch Guiana- 6.5mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/carmel-by-the-sea>
+{'code': 'RECB2702', 'title': 'Carmel Highlands 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/crown-colony>
+{'code': 'RECR2601', 'title': 'Virginia 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/crown-colony>
+{'code': 'RECR2602', 'title': 'New South Wales 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/crown-colony>
+{'code': 'RECR2603', 'title': 'Tasmania 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/crown-colony>
+{'code': 'RECR2604', 'title': 'South Georgia 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/beach-house>
+{'code': 'REWPC410', 'title': 'Myrtle Beach - 7mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/beach-house>
+{'code': 'REWPC440', 'title': 'Clearwater Beach - 7mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/beach-house>
+{'code': 'REWPC470', 'title': 'East Hampton Beach - 7mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/beach-house>
+{'code': 'REWPC490', 'title': "Martha's Vineyard Beach - 7mm"}
+2021-05-10 12:58:22 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/great-oregon-oak> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/coastal-oak>
+{'code': 'RECO2401', 'title': 'Coastal Live Oak - 6.3mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/coastal-oak>
+{'code': 'RECO2402', 'title': 'Carmen Oak - 6.3mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/coastal-oak>
+{'code': 'RECO2406', 'title': 'Channel Island Scrub Oak - 6.3mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/coastal-oak>
+{'code': 'RECO2407', 'title': 'Blue Oak - 6.3mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/mountain-oak> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-oregon-oak>
+{'code': 'REOR2301', 'title': 'Water Oak 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-oregon-oak>
+{'code': 'REOR2302', 'title': 'Holm Oak - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-oregon-oak>
+{'code': 'REOR2303', 'title': 'Japanese Oak - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-oregon-oak>
+{'code': 'REOR2304', 'title': 'Oregon White Oak - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-oregon-oak>
+{'code': 'REOR2305', 'title': 'Sessile Oak - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Crawled (404) <GET https://www.republicfloor.com/silver-lake> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-oregon-oak>
+{'code': 'REOR2306', 'title': 'Gray Oak - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-oregon-oak>
+{'code': 'REOR2307', 'title': 'Harvard Oak - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/mountain-oak>
+{'code': 'REMO2501', 'title': 'Denali - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/mountain-oak>
+{'code': 'REMO2502', 'title': 'Mont Blanc - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/mountain-oak>
+{'code': 'REMO2503', 'title': 'Etna - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/mountain-oak>
+{'code': 'REMO2504', 'title': 'Carmel - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/mountain-oak>
+{'code': 'REMO2505', 'title': 'Atlas - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/mountain-oak>
+{'code': 'REMO2506', 'title': 'Black Mountain'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Crawled (200) <GET https://www.republicfloor.com/great-california-oak> (referer: http://quotes.toscrape.com/)
+2021-05-10 12:58:22 [scrapy] INFO: Ignoring response <404 https://www.republicfloor.com/silver-lake>: HTTP status code is not handled or not allowed
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-california-oak>
+{'code': 'RECA2201', 'title': 'California Black Oak - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-california-oak>
+{'code': 'RECA2202', 'title': 'Laurel Oak - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-california-oak>
+{'code': 'RECA2203', 'title': 'Scarlet Oak - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-california-oak>
+{'code': 'RECA2204', 'title': 'Willow Oak - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-california-oak>
+{'code': 'RECA2205', 'title': 'Cherrybark Oak - 8mm'}
+2021-05-10 12:58:22 [scrapy] DEBUG: Scraped from <200 https://www.republicfloor.com/great-california-oak>
+{'code': 'RECA2206', 'title': 'Bluff Oak'}
+2021-05-10 12:58:22 [scrapy] INFO: Closing spider (finished)
+2021-05-10 12:58:22 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 12657,
+ 'downloader/request_count': 41,
+ 'downloader/request_method_count/GET': 41,
+ 'downloader/response_bytes': 5144254,
+ 'downloader/response_count': 41,
+ 'downloader/response_status_count/200': 36,
+ 'downloader/response_status_count/301': 2,
+ 'downloader/response_status_count/404': 3,
+ 'elapsed_time_seconds': 4.58301,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 10, 7, 28, 22, 726072),
+ 'httpcompression/response_bytes': 19312841,
+ 'httpcompression/response_count': 37,
+ 'httperror/response_ignored_count': 2,
+ 'httperror/response_ignored_status_count/404': 2,
+ 'item_scraped_count': 159,
+ 'log_count/DEBUG': 200,
+ 'log_count/INFO': 9,
+ 'request_depth_max': 1,
+ 'response_received_count': 39,
+ 'robotstxt/request_count': 2,
+ 'robotstxt/response_count': 2,
+ 'robotstxt/response_status_count/200': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 39,
+ 'scheduler/dequeued/memory': 39,
+ 'scheduler/enqueued': 39,
+ 'scheduler/enqueued/memory': 39,
+ 'start_time': datetime.datetime(2021, 5, 10, 7, 28, 18, 143062)}
+2021-05-10 12:58:22 [scrapy] INFO: Spider closed (finished)
