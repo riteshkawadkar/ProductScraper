@@ -2,7 +2,7 @@ import scrapy
 from ..items import WoodsItem
 
 class JohnsonHardwoodspiderSpider(scrapy.Spider):
-    name = 'johnsonhardwoodspider'
+    name = 'johnsonhardwoodSpider'
     allowed_domains = ['johnsonhardwood.com']
     start_urls = ['https://johnsonhardwood.com//']
 

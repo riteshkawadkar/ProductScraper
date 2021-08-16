@@ -3,7 +3,7 @@ import re
 from ..items import WoodsItem
             
 class RepublicFloorSpider(scrapy.Spider):
-    name = 'spider'
+    name = 'realwoodfloorsSpider'
     allowed_domains = ['republicfloor.com']
     start_urls = ['http://republicfloor.com']
 

@@ -291,7 +291,7 @@ def scrape_with_crochet():
     crawl_runner.crawl(MullicanflooringspiderSpider)
     crawl_runner.crawl(RealwoodfloorsspiderSpider)
     crawl_runner.crawl(RepublicFloorSpider)
-    crawl_runner.crawl(ShawfloorspiderSpider)
+    crawl_runner.crawl(ShawfloorspiderSpider)   
     crawl_runner.crawl(SlccflooringspiderSpider)
     crawl_runner.crawl(TexastraditionsflooringspiderSpider)
     crawl_runner.crawl(TropicalflooringspiderSpider)

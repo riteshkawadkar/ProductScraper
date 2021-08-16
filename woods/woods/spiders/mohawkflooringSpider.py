@@ -5,7 +5,7 @@ from ..items import WoodsItem
 import json 
 
 class MohawkflooringspiderSpider(scrapy.Spider):
-    name = 'MohawkFlooringSpider'
+    name = 'mohawkflooringSpider'
     allowed_domains = ['mohawkflooring.com']
     start_urls   = ['https://www.mohawkflooring.com']
 
