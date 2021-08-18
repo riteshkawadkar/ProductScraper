@@ -281,6 +281,7 @@ def scrape_with_crochet():
     crawl_runner.crawl(HillcountryinnovationsspiderSpider)
     crawl_runner.crawl(IndusparquetspiderSpider)
     crawl_runner.crawl(JohnsonHardwoodspiderSpider)
+    crawl_runner.crawl(KnoasflooringspiderSpider)
     crawl_runner.crawl(LawsonfloorsspiderSpider)
     crawl_runner.crawl(LicousspiderSpider)
     crawl_runner.crawl(LwflooringspiderSpider)
